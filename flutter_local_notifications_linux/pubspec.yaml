@@ -12,6 +12,7 @@ dependencies:
     git:
       url: git@github.com:vulpeep/flutter_local_notifications.git
       path: flutter_local_notifications_platform_interface
+      ref: big-text-git
   path: ^1.8.0
   xdg_directories: ">=0.2.0+1 <2.0.0"
 
